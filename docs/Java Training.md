@@ -18,10 +18,13 @@ https://www.w3schools.com/java
 * Write a calculator that takes in 2 numbers and prints the sumNumber
 
 ### Skip to “User Input (Scanner)”
-* Write code that takes in a numbers N and replaces every N characters in Ipsum Lorem, with the next letter in the alphabet
+* Write code that takes in a string and returns the same string converted to all upper case
+* Write code that takes in a string and returns the same string with every first letter of a work capitalized
 * Write a Calculator that handles the 4 basic math operations (+, -, *, /), using methods
+* Write code that takes in a numbers N and replaces every N characters in Ipsum Lorem, with the next letter in the alphabet, ignoring non-letters
 * Calculate factorial, using recursion
-* Guessing Game (pc says higher or lower)
+* Guessing Game
+    * You pass in a number and the code says higher, lower, or correct
 * Password Generator
     * Takes in: Length, Include Upper?, Num of Special Characters
 

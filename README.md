@@ -16,6 +16,8 @@
 <br/>
 
 # New Coder Onboarding
+
+## Training
 * ### [Java Training](docs/Java%20Training.md)
 * ### [WPI Library Training](docs/WPI%20Library%20Training.md)
 * ### Robot Code Structure **(TODO)**
@@ -26,6 +28,9 @@
     * [YouTube Video](https://www.youtube.com/watch?v=4Y7zG48uHRo)
 * ### Swerve Controller **(TODO)**
     * _Needed?_
+
+## Machine Setup
+* ### [New Computer Setup](docs/New%20Computer%20Setup.md)
 
 <br/>
 
