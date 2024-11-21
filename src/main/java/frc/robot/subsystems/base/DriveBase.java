@@ -57,6 +57,7 @@ public class DriveBase extends SubsystemBase {
     }
 
     private static final double ENCODER_STDDEV = 0.01;
+    private static final SwerveModuleState[] EMPTY_SETPOINTS = new SwerveModuleState[] {};
 
     /** Returns an array of module translations. */
     public static Translation2d[] getModuleTranslations() {
@@ -152,8 +153,8 @@ public class DriveBase extends SubsystemBase {
 
         // Log empty setpoint states when disabled
         if (DriverStation.isDisabled()) {
-            Logger.recordOutput("SwerveStates/Setpoints []");
-            Logger.recordOutput("SwerveStates/SetpointsOptimized []");
+            Logger.recordOutput("SwerveStates/Setpoints", EMPTY_SETPOINTS);
+            Logger.recordOutput("SwerveStates/SetpointsOptimized", EMPTY_SETPOINTS);
         }
 
         // Update odometry
