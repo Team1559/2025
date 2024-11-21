@@ -20,14 +20,18 @@
 ## Training
 * ### [Java Training](docs/Java%20Training.md)
 * ### [WPI Library Training](docs/WPI%20Library%20Training.md)
-* ### Robot Code Structure **(TODO)**
+* ### Robot Code Structure
+    * _To-Do_
 * ### [WPI Lib Commands](docs/WPILib%20Commands.md)
 * ### PID Controller
     * [PID Control in WPILib](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/pidcontroller.html)
     * [PIDController API](https://github.wpilib.org/allwpilib/docs/release/java/edu/wpi/first/math/controller/PIDController.html)
     * [YouTube Video](https://www.youtube.com/watch?v=4Y7zG48uHRo)
-* ### Swerve Controller **(TODO)**
-    * _Needed?_
+* ### Swerve Controller
+    * _To-Do_
+        * _Needed?_
+* ### Limelight
+    * _To-Do_
 
 ## Machine Setup
 * ### [New Computer Setup](docs/New%20Computer%20Setup.md)
