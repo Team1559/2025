@@ -26,7 +26,8 @@
 * ### PID Controller
     * [PID Control in WPILib](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/pidcontroller.html)
     * [PIDController API](https://github.wpilib.org/allwpilib/docs/release/java/edu/wpi/first/math/controller/PIDController.html)
-    * [YouTube Video](https://www.youtube.com/watch?v=4Y7zG48uHRo)
+    * [YouTube Video: Explanation](https://www.youtube.com/watch?v=4Y7zG48uHRo)
+    * [YouTube Video: Visual](https://www.youtube.com/watch?v=qKy98Cbcltw)
 * ### Swerve Controller
     * _To-Do_
         * _Needed?_
