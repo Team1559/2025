@@ -10,16 +10,29 @@
 https://www.w3schools.com/java
 
 ### Java Tutorial Group
-* Write code that reverses Ipsum Lorem
-* Write code that counts vowels in Ipsum Lorem
-* Write code that replaces every vowel in Ipsum Lorem with opposite case
+* **Array Reverse**
+    * Write code that takes an array of numbers and reverses their order
+* **Array Sort**
+    * Write code that sorts an array of numbers
+* **Case Change**
+    * Write code that take a string and makes it uppercase
+* **String Reverse**
+    * Write code that reverses "Hello World"
+* **Character Count**
+    * Write code that counts vowels in Ipsum Lorem
+* **Character Replace**
+    * Write code that replaces every vowel in Ipsum Lorem with opposite case
 
 ### Java Methods
-* Write a calculator that takes in 2 numbers and prints the sumNumber
+* **Calculator**
+    * Write 4 methods that will perform either add, subtract, multiply, or divide, when passed in two numbers
+* **Next Letter**
+    * Write a method that takes in a letter and returns the next letter in the alphabet
+    * If the letter is "z" then return "a"
 
 ### Skip to “User Input (Scanner)”
-* Write code that takes in a string and returns the same string converted to all upper case
 * Write code that takes in a string and returns the same string with every first letter of a work capitalized
+* write code that taked in two numbers, adds them together, and prints the result
 * Write a Calculator that handles the 4 basic math operations (+, -, *, /), using methods
 * Write code that takes in a numbers N and replaces every N characters in Ipsum Lorem, with the next letter in the alphabet, ignoring non-letters
 * Calculate factorial, using recursion
